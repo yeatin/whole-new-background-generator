@@ -1,1 +1,1 @@
-# whole-new-background-generator.github.io
+# new.github.io
