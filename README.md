@@ -1,5 +1,5 @@
 # Background Generator
-Background Generator is a web tool that provides two colors and make a gradient background color out of them. Random color combination is included.
+Background Generator is a web tool for choosing a gradient background color. Random color combination is included. When making a website without any clue to choose a background color, come here and select two colors and Background Generator output a gradient color made out of the two colors.
 ## Built With
 * Javascript
 * HTML
